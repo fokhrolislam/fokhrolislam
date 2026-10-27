@@ -24,6 +24,9 @@ I build software for people who were never served by software before: madrasa te
 | [php-number-format-dart](https://github.com/fokhrolislam/php-number-format-dart) | PHP's `number_format($x, 2)` reproduced exactly in Dart, so a Flutter app never shows a different paisa than its Laravel backend |
 | [bangla-utils-dart](https://github.com/fokhrolislam/bangla-utils-dart) | Bangla digits, month and weekday names, short taka amounts, and crash-safe parsing of API values that may arrive as strings |
 | [flutter-risk-scans](https://github.com/fokhrolislam/flutter-risk-scans) | Small static scanners that catch the crashes Flutter apps only show in production: raw `as Map` casts, `AsyncValue.value`, missing double-submit guards |
+| [wordpress-field-notes](https://github.com/fokhrolislam/wordpress-field-notes) | Measured WordPress, WooCommerce and Elementor traps from live client sites, with drop-in fixes (WP Super Cache basket leak guard, slug guard, WPCode from WP-CLI) |
+| [site-visual-scan](https://github.com/fokhrolislam/site-visual-scan) | Playwright scan of every sitemap URL that reports pages which look broken: giant emoji, overflow, broken or oversized images, failed assets |
+| [portfolio](https://github.com/fokhrolislam/portfolio) | Products, client builds, security clean-ups and tooling I have delivered |
 
 ## Contact
 
