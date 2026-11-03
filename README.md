@@ -26,11 +26,3 @@ I build software for people who were never served by software before: madrasa te
 | [flutter-risk-scans](https://github.com/fokhrolislam/flutter-risk-scans) | Small static scanners that catch the crashes Flutter apps only show in production: raw `as Map` casts, `AsyncValue.value`, missing double-submit guards |
 | [wordpress-field-notes](https://github.com/fokhrolislam/wordpress-field-notes) | Measured WordPress, WooCommerce and Elementor traps from live client sites, with drop-in fixes (WP Super Cache basket leak guard, slug guard, WPCode from WP-CLI) |
 | [site-visual-scan](https://github.com/fokhrolislam/site-visual-scan) | Playwright scan of every sitemap URL that reports pages which look broken: giant emoji, overflow, broken or oversized images, failed assets |
-| [portfolio](https://github.com/fokhrolislam/portfolio) | Products, client builds, security clean-ups and tooling I have delivered |
-
-## Contact
-
-- 🗂️ Portfolio with screenshots: [fokhrolislam.github.io](https://fokhrolislam.github.io)
-- 🌐 [sabaaq.com](https://sabaaq.com)
-- 📱 [Sabaq on Play Store](https://play.google.com/store/apps/details?id=com.sabaaq.sabaq_app)
-- 📍 Dhaka, Bangladesh
