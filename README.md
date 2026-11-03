@@ -2,8 +2,6 @@
 
 Founder and lead developer of **[Sabaq (ছবক)](https://sabaaq.com)**, a madrasa and school management platform used by **700+ institutions across Bangladesh**.
 
-**Portfolio:** [fokhrolislam.github.io](https://fokhrolislam.github.io)
-
 I build software for people who were never served by software before: madrasa teachers, office staff and guardians who run everything on paper, in Bangla, often on a cheap Android phone and a slow connection.
 
 ## What I work on
